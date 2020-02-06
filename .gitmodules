@@ -1,0 +1,3 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/noobboon7/JobHunt-server.git
