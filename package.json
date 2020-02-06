@@ -11,8 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "@material-ui/icons": "^4.5.1",
+    "connect-redis": "^4.0.4",
     "cron": "^1.7.2",
     "express": "^4.17.1",
+    "express-session": "^1.17.0",
     "node-fetch": "^2.6.0",
     "redis": "^2.8.0"
   }
