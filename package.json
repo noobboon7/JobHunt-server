@@ -15,7 +15,7 @@
     "cron": "^1.7.2",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "redis": "^2.8.0"
   }
 }
